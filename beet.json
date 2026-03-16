@@ -1,0 +1,18 @@
+{
+    "name": "Tridents Drop Always - by tjb3171",
+    "description": "Makes Drowneds with tridents drop them 100% of the time.",
+    "require": [
+        "bolt"
+    ],
+    "data_pack": {
+        "load": ["src"],
+        "description": "🍖 §6§lTridents Always Drop v1.0§d -{ 1.21.11 }- §7by tjb3171",
+        "pack_format": 94,
+        "min_format": [92, 0],
+        "max_format": [94, 1]
+    },
+    "pipeline": [
+        "mecha"
+    ],
+    "output": "build"
+}
