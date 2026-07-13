@@ -6,10 +6,10 @@
     ],
     "data_pack": {
         "load": ["src"],
-        "description": "🍖 §6§lTridents Always Drop v1.0§d -{ 26.1 }- §7by tjb3171",
+        "description": "🍖 §6§lTridents Always Drop v1.1§d -{ 26.2 }- §7by tjb3171",
         "pack_format": 94,
-        "min_format": [92, 0],
-        "max_format": [101, 1]
+        "min_format": 92,
+        "max_format": [107, 1]
     },
     "pipeline": [
         "mecha"

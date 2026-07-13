@@ -1,13 +1,10 @@
 {
   "pack": {
-    "description": "\ud83c\udf56 \u00a76\u00a7lTridents Always Drop v1.0\u00a7d -{ 1.21.11 }- \u00a77by tjb3171",
+    "description": "\ud83c\udf56 \u00a76\u00a7lTridents Always Drop v1.1\u00a7d -{ 26.2 }- \u00a77by tjb3171",
     "pack_format": 94,
-    "min_format": [
-      92,
-      0
-    ],
+    "min_format": 92,
     "max_format": [
-      101,
+      107,
       1
     ]
   }
